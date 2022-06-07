@@ -12,7 +12,7 @@ function Cards() {
           <ul className='cards__items'>
             <CardItem
               src='images/hr-handshaking.webp'
-              text='Talentfleet provides our clients with services to
+              text='Esar Solutions provides our clients with services to
               identify and fine-tune their hiring requirements, as
               well as to recruit the best talent. From the beginning
               to the end of the hiring process, our team offers you
